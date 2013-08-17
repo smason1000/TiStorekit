@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: iOS StoreKit Module for in app purchases
+author: Christian Sullivan
+license: MIT
+copyright: Copyright (c) 2012 by Christian Sullivan <cs@euforic.co>
+
+
+# these should not be edited
+name: tistorekit
+moduleid: tistorekit
+guid: 3ff6d2f2-0193-4ab8-9470-624b6882df2d
+platform: iphone
+minsdk: 2.1.1.GA

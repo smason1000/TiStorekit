@@ -1,0 +1,19 @@
+{
+  "name": "TiStorekit",
+  "repo": "euforic/TiStorekit",
+  "version": "0.1",
+  "author": "Christian Sullivan <cs@euforic.co>",
+  "license": "MIT",
+  "description": "iOS StoreKit native ios module",
+  "main": "tistorekit-iphone-0.1.zip",
+  "keywords": ["storekit","ios","commerce"],
+  "dependencies": {
+  },
+  "development": {},
+  "guid": "xxxxxxx-xxxxxx-xxxxxx",
+  "minsdk": "2.0.0",
+  "packed": true,
+  "files": [
+    "tistorekit-iphone-0.1.zip"
+  ]
+}
